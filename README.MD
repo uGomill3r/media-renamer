@@ -3,7 +3,7 @@
 ## How to Use
 
 - This is a web application.
-- git clone this repo and directly run `python3 app.py` **(Recommended)**
+- git clone this repo and directly run `python app.py` **(Recommended)**
 
 ## What the script does
 You download a TV show from torrent and find the suitable subtitle files from some website.
