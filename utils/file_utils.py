@@ -34,7 +34,7 @@ def rename_files(data):
         for i in range(len(videos)):
             video_name = os.path.splitext(videos[i])[0]
             sub_ext = os.path.splitext(subs[i])[1]
-            new_name = f"{video_name}{sub_ext}"
+            new_name = f"{video_name}.es{sub_ext}"
 
             if action == 'rename_subtitles':
                 os.rename(os.path.join(path, subs[i]), os.path.join(path, new_name))
