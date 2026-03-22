@@ -85,7 +85,7 @@ SECRET_KEY = 'cambiame-por-una-clave-segura'
 ## Instalación
 
 ```bash
-git clone https://github.com/uGomill3r/MediaRenamer.git
+git clone https://github.com/tu-usuario/MediaRenamer.git
 cd MediaRenamer
 python3 -m venv venv
 source venv/bin/activate
@@ -151,3 +151,9 @@ Respuesta:
 - La cantidad de videos y subtítulos debe ser igual para poder renombrar
 - El renombrado es irreversible — recomendable hacer backup antes
 - Los subtítulos renombrados desde videos reciben el sufijo `.es` antes de la extensión (ej: `pelicula.es.srt`)
+
+---
+
+## Licencia
+
+MIT License — Copyright (c) 2025 uGomill3r. Ver `LICENSE.md` para el texto completo.
