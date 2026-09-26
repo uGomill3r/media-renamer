@@ -85,7 +85,7 @@ SECRET_KEY = 'cambiame-por-una-clave-segura'
 ## Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/MediaRenamer.git
+git clone https://github.com/uGomill3r/MediaRenamer.git
 cd MediaRenamer
 python3 -m venv venv
 source venv/bin/activate
