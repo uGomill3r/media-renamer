@@ -1,3 +1,5 @@
+> ⚠️ **Repositorio deprecado** — Esta funcionalidad fue integrada como la sección **Series** en [SubDivX Browser](https://github.com/TU-USUARIO/subdivx-browser), que la reemplaza por completo (explorador de árbol, renombrado por posición con drag & drop) y además suma búsqueda y descarga automática de subtítulos vía SubDivX. Este repo se conserva solo como referencia histórica y ya no recibe actualizaciones.
+
 # MediaRenamer
 
 App web Flask para renombrar masivamente archivos de video y subtítulos en una carpeta. Permite sincronizar los nombres entre ambos tipos de archivo — copiando el nombre del video al subtítulo o viceversa — de forma visual y con soporte para reordenar archivos con drag & drop.
